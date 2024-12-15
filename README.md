@@ -1,8 +1,10 @@
 # Over-Population #
 Selamat datang di game Over Population.
 game ini buat sebagai bahan skripsi di universitas tarumanagara
-Pembuat   : Tejaputra\n
-NIM       : 535180144\n
+
+Pembuat   : Tejaputra
+NIM       : 535180144
+
 isi github ini terdiri dari :
 - source code Over Population (dengan partisi library dalam rar)
 - APK Over Population
