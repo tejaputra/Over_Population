@@ -3,6 +3,7 @@ Selamat datang di game Over Population.
 game ini buat sebagai bahan skripsi di universitas tarumanagara
 
 Pembuat   : Tejaputra
+
 NIM       : 535180144
 
 isi github ini terdiri dari :
