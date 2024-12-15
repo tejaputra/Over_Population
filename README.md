@@ -1,6 +1,6 @@
 # Over Population #
 Selamat datang di game Over Population.
-game ini buat sebagai bahan skripsi di universitas tarumanagara. game ini dapat dijalankan pada aplikasi android.
+game ini buat sebagai bahan skripsi di universitas tarumanagara. Isi dari github ini berupa Source Code, Manual Book, dan APK game Over Population. Game ini dapat dijalankan pada aplikasi android.
 
 Pembuat   : Tejaputra
 
