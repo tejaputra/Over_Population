@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy_MeleeAttack
+  - Player_Projectile
+  - Enemies
+  - Player_Melee
+  - Player_Explosion
+  - Enemies_Area
+  - Enemies_Foot
+  - Player_Area
+  - Player_Foot
+  - Boss
+  - Enemies_Projectile
+  - Game_Information
+  - Boss_Bar
+  - Boss_Name_Bar
+  - Shadow
+  - Score
+  - Kill
+  - Time
+  - Countdown
+  - Objective
+  - Money
+  - Cell
+  - CellText
+  - BGM
+  - SettingObject
+  - Sound_Play_Object
+  - Energy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Obstacle
+  - Water
+  - UI
+  - background
+  - Enemies_Area
+  - Enemis_Foot
+  - Player_Area
+  - Player_Foot
+  - Enemies_AttackArea
+  - Player_Bullet
+  - Player_Melee
+  - Enemies_Bullet
+  - Boss_Foot
+  - Tree
+  - Tree_Foot
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1429005915
+    locked: 0
+  - name: Texture
+    uniqueID: 853007431
+    locked: 0
+  - name: Texture2
+    uniqueID: 900138415
+    locked: 0
+  - name: Obstacle
+    uniqueID: 954955593
+    locked: 0
+  - name: Enemy
+    uniqueID: 561726083
+    locked: 0
+  - name: Boss
+    uniqueID: 3993649849
+    locked: 0
+  - name: Player
+    uniqueID: 1294869013
+    locked: 0
+  - name: Cub
+    uniqueID: 746633649
+    locked: 0
+  - name: Tree
+    uniqueID: 194160367
+    locked: 0
+  - name: mantap
+    uniqueID: 1357502915
+    locked: 0

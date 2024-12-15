@@ -1,0 +1,4293 @@
+fileFormatVersion: 2
+guid: 1c7a9bd6131c5614a8da09df2fe033ef
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 930
+        width: 48
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd62c41e60f9c1049ace334cba3aff3a
+      internalID: -2017640839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 925
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b21a47df04a68a49895c93c178f60a9
+      internalID: -64789621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 895
+        width: 82
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd29109399885947b874bfe96e939f2
+      internalID: -133507853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 894
+        width: 6
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e422e67903f3e49aef3693e6b35a2f
+      internalID: -2110094239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 906
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a09fa33cb6ea94a933b108faad1016
+      internalID: 325807359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 924
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4416d6a8b40a02541ba1f25c0c3c3d90
+      internalID: 2034223066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 919
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7945312521902354db77e2f0e844a0f8
+      internalID: 1238099574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 875
+        width: 86
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7efa3137d61c94289ace6154355cd6
+      internalID: 1683384423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 827
+        width: 75
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e018c0d0107ec468c6acc01e3313b5
+      internalID: -1073837770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 844
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9209ed3c8b1b60546bdf575868179504
+      internalID: -792063115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 806
+        width: 123
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b6f698c8e848f4aadfffe3d5337889
+      internalID: 1722555979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 528
+        width: 378
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a13eefc825c30446b14c85f4cde1340
+      internalID: 1095581269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 666
+        width: 150
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018145795e48ad94a8a99c27a9a08914
+      internalID: 2046244709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 856
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ec571679945144e8d7b08122004e70
+      internalID: -159307574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 799
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02cd53abbddc4f44a945d22a588bad5
+      internalID: 681879340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 842
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce53d31d9cd60a47a5bce61cb440fee
+      internalID: -1223663087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 804
+        width: 66
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed1ae5bed349ff408134df8fbc40d1d
+      internalID: 655106489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 834
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b3822dc5c94df43b448c8ad949fecf
+      internalID: -1283073182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 865
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1073b689ecf18f4a977a554f1f5d7cb
+      internalID: 32752075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 859
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b748e0cadbb2eba4c8f88bab2ba483aa
+      internalID: -1878456020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 798
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df1d2e45dc279a4ca94d3f7469232c7
+      internalID: 380532710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 853
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bae09b95dea1574b8fff3b84eca62d4
+      internalID: -1253586227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 800
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b25f4743ccd06438cba6aabc68b412
+      internalID: -1190319156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 817
+        width: 81
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a45ca4183290340900d388a82df2e4
+      internalID: -1243554122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 722
+        width: 102
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9e60b966fa31340b7c6725bcfe3b5e
+      internalID: 1509191924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 755
+        width: 134
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dff8f741f274a44ba0b4ac96935944
+      internalID: 1991506924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 840
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e1ec947a30eeb4db0bfbadb05d2f50
+      internalID: 1929110800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 844
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0153429cf399184b9f62f76e3acaec4
+      internalID: 753590908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 834
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6e4d070e7d63f438431581e7e851cd
+      internalID: -259715199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 744
+        width: 47
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4b80f6ed5bb8d49a1ad87a6ffe673b
+      internalID: -1201302994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 835
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088fd05bcbf303c4bb9b5146b90fafb4
+      internalID: -1737063856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 734
+        width: 78
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88818d08121973745b1c41ef9a384a9c
+      internalID: 156526761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 829
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47fbfc7b6b499242be5d949a801188e
+      internalID: -422696123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 799
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5bbe73815b9f746b23774e91d08d05
+      internalID: -281255005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 750
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226c7fdb213229f4db3bba1ecf7c9dd6
+      internalID: -2078479411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 823
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a19d4538970b3a4791078531042a93c
+      internalID: 364457242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 755
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe492b988ce651a40b8cf585e0c94fc8
+      internalID: -68863907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 731
+        width: 99
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63db9d1e20c6e5940acc1c2141ecc9cf
+      internalID: 1448749352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 816
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7185a014c135ca48b4ae21d8a11c11d
+      internalID: 931035814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 780
+        width: 11
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87be5bdfb4da0034591bf73727a3af2e
+      internalID: -1544532024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 794
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9754d74e98ddb64db041d160370abb3
+      internalID: -407242915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 769
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65fe6bf604994e45b75428adb0fbc6f
+      internalID: -319885347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 774
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09c3794538fbbb4fafad202d8f7c460
+      internalID: 1939018000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 777
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133a95318cbb47b459d7fa45ebc1d67c
+      internalID: 691358954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 740
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc2097a30daf7c45837a6fdb6a1922d
+      internalID: -2060552601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 786
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efe39649103bb043a2668f34b2f3dbd
+      internalID: 422914044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 657
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49f77cb99ed2ba4a85e6613fd4bc7fd
+      internalID: -1179932121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 741
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84f6fa932b3f5b4b97e2d63cf4fdd40
+      internalID: -639669831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 745
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968cff0d438226242a7f484416366e61
+      internalID: -2093759262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 769
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1f47e285f9a974fa7fedde65001d9d
+      internalID: -1508242511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 684
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0423c3c7e01c644e86b95d923bee992
+      internalID: 2011785660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 715
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb90280e9c604cc4fb00b90fb8d50df0
+      internalID: -1630857978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 756
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2104611cb1b78243b2032aca42286f8
+      internalID: 1523929303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 758
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4bea1ff8843cd4db6f47c4e3966560
+      internalID: -1634313443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 718
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0552706dd704f64ab089119305d3f2f
+      internalID: 768129234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 695
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c2918fb093f2e4d8706bcd9255da84
+      internalID: -854398046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 681
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec56c7878082f3745a94a8be98576a5b
+      internalID: -1331421714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 668
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a086e6b1935b346b6dee47e2d1bd40
+      internalID: -891319065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 738
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b422f9a99d82e9e49b1eefabb3faaccd
+      internalID: -501151680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 696
+        width: 101
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e5a56ff47c45e4e92bb79fa3760b31
+      internalID: -1027317578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 654
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9160e37576f7cc46bc0fea0acc35103
+      internalID: 1372434083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 732
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06031001bf7346a4cafe2baccf284cfb
+      internalID: -199125077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 697
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec95c4c42f346c48860936dec9feb52
+      internalID: -440304640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 726
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737719a4a889de144b0f612a38198f03
+      internalID: -530544474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 684
+        width: 103
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c5882eb36a4a3479c3ca7c4f68d9f6
+      internalID: -325611407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 720
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a121db73701a0304ca3d93917f2ff28f
+      internalID: 660702254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 714
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fe5666416b2124b9a2c0a2c37e8c2d
+      internalID: 940436319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 654
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6742d2b38cf0142b3d8669975cd004
+      internalID: -972133226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 616
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655897a09f85b6f439bd57c8a46a50dd
+      internalID: -329023998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 702
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27270c42f38a3134ebfce6acaa67366b
+      internalID: -735237591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 624
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7c3349f08d6414398c376a4f8b8a27
+      internalID: 262780365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 684
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c54e60048eef3e4b8ea80d998aed4c3
+      internalID: 178481813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 606
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518769a1185d5324f858e520ad239100
+      internalID: -1539353207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 673
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf8ac2f82189d54cbc8653d740f5661
+      internalID: 1391397580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 600
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a024b2939fed92a4485d83afb175a7a0
+      internalID: -651866012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 679
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e2f896386470644bc710fefc1b3c1d
+      internalID: 591223524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 677
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effbfdd09a0c9864cafbf949b160d43f
+      internalID: 652012536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 624
+        width: 100
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f36df5015279f24bb01f7cd074535a2
+      internalID: -1276817045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 672
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de7caf709e62ce4ea23033eb0268fe6
+      internalID: 698299559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 667
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb97a0db0f2b9cd4194f7479f3a41c95
+      internalID: 1208807046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 661
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ce18ef6a40c0640b1329c30d7cc947
+      internalID: -323483187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 606
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294cc8a2dbce1b9418d86ce2ac726adc
+      internalID: -1854319832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 667
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce50cecbdada2a64b9e28ed5ff38bd5e
+      internalID: 402098353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 624
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16054be5794d0648bcdaa5eb4a360c1
+      internalID: -1396506593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 661
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5849d431a8ebb4fbdd5c0b85f8228e
+      internalID: -1607681283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 660
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4933d47c5d41a2b449adc355e6be2475
+      internalID: -598848613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 636
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99237d99ad8566e4b8f4767000cb9147
+      internalID: -1195475144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 643
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4ee1f2b1cf15249b5149d94def40ed
+      internalID: -636211253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 582
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c627586e7e07474e95d38479e931553
+      internalID: -668159884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 654
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1641119997d37c74ea01a47be785e77e
+      internalID: -1933127204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 648
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7abba66a1a1b2438ffe5e0b3d28397
+      internalID: 1803966856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 642
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd66d2cefe4ee76428871877e55ebd38
+      internalID: 77459156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 630
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9dd6c3394164e4cb452350203d020b
+      internalID: 827233123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 636
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09219e9b62ecd34c814bc435ced9751
+      internalID: 850415680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c77498f9c9adcb4babd6636b51e5bd4
+      internalID: 493937361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 576
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d938e4d7fbc57b2419adf5be852fdec3
+      internalID: 1658464203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 576
+        width: 109
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a88eecec253f241a06a2dbaff60530
+      internalID: 260187285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 582
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58350959bacd2084badfc4924431648c
+      internalID: -748763023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 588
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95e510bf9bbc3843b8333267b6d186e
+      internalID: -1040907741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 576
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60df50b67e8c38947b8c1b147467be98
+      internalID: -1975538307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 570
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba418ff63c38c7e4781ecf3f7a719b67
+      internalID: 2122911512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 570
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32adab30676d36b4981983b2c5ab409f
+      internalID: 1029097912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 504
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537891d8de8a60b44929930c67cc9793
+      internalID: 1121197358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 428
+        width: 55
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce9bbfcfe14a714b9483060420886b9
+      internalID: -2144579450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 433
+        width: 234
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71bdbe1ba4d73c48a7f844c8ee50a15
+      internalID: -71801516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 330
+        width: 208
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff605f9b81b9924f9092876524525c7
+      internalID: 2022451308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 540
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0242512c40df4c4bbcacbcb02d3399b
+      internalID: 2046684556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 514
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf52a8c2b1918b94791fa46655e322db
+      internalID: -102975310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 540
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba182b8a1a77c948bb78f0b87540342
+      internalID: -426217155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 534
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a18a51e8e7ccf4993772c466f80eb5
+      internalID: -195913023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 534
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d690107e314ff904886133b9ca43e495
+      internalID: 2066483902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 498
+        width: 78
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c594d71a4ae184a98d09efa2464246
+      internalID: 1212980816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 488
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e02822a48b78d45a4a93774eb0033d
+      internalID: 1515340268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 522
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5105caea30e957945afb9dd153726273
+      internalID: 834943798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 493
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7f33feddc535c47ab3d0cb2afda8dd
+      internalID: -1334674937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 492
+        width: 130
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f774f4adc4e4b04fa5274f09ca6d2bc
+      internalID: 31483565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 463
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3142323052464a6428c24801d8b7c892
+      internalID: 1181870853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 509
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675d226cad3e6714f9977dbe2d2a4a13
+      internalID: 1905515677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 511
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464577d09c1798c48a5d7ff3290a3d7c
+      internalID: -101343281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 369
+        width: 120
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cede0653123e14d8cd6f9679fbf1d8
+      internalID: 951251655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 505
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a443f4b050ce84f836fd08e56a25c2
+      internalID: -656205380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 498
+        width: 26
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c6d70dbf6ecbe4089a4501fc7733d0
+      internalID: 960972151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 480
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a37fe9fa8c1994c833a8391f5b57b5
+      internalID: -510855918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 499
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81485985d885dfa4691fa00fe0f8d8d2
+      internalID: -1671590027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 492
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bfd858a5019f44ab9be6cf1aeb72e6
+      internalID: -447722311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 308
+        width: 132
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea506a1c57f2b6f4a9f665ad0c09ce74
+      internalID: 708628217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 300
+        width: 165
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190924f8b79bfee459539e833583bfab
+      internalID: 1184322668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 432
+        width: 11
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d7868e433c9b0438822d19dc0666de
+      internalID: 251909350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 445
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5c0b71d1f2cde47a7c86106af89363
+      internalID: -1881556199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 481
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c248dfa25aba6545b66f834bbc094ee
+      internalID: 1726211202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 475
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af02fb7887162f48866944860af9f67
+      internalID: 9638918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 414
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321835bf17ce3f64d845965b190f5cf8
+      internalID: -277005946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 421
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8295121fbe81d0a439f4261e26ad7706
+      internalID: 36868070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 435
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44861a090e2fd441b5bd69850bc92e6
+      internalID: -760192923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 372
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468e663364a708d41a553632b29ef82f
+      internalID: 1736891812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 412
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb76450473305640855004f38bc0b13
+      internalID: 595250903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 464
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd12f44521d5d74c80bfffcecece5bc
+      internalID: -751493614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 396
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abdba624bb71ac48901e282a5328785
+      internalID: 2024044633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 264
+        width: 167
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0fd56b7923d544ab033b60e5acab6d
+      internalID: -994849581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 414
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0834c761efd55564cb3cd4d19b1a9d97
+      internalID: 710828971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 386
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9d97096cdfda04284e04101439ce1b
+      internalID: -838323917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 366
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf03ac9c6e840c439c6cc73e513093b
+      internalID: -457408935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 255
+        width: 122
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd11c4892657ae449839d139a94be744
+      internalID: -404494082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 336
+        width: 114
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39d9bcf05eb124488b722101f454664
+      internalID: -694394629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 420
+        width: 5
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc918fcdc6c20b43aa5ac618f904d98
+      internalID: -947825503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 306
+        width: 88
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3b2f5920382d14cb00813b3bfd06ed
+      internalID: 1734391169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 362
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689ac6c29c4482347befd9c2ebcd0df7
+      internalID: -1863010366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 222
+        width: 108
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925732b4843c31e4cb1f4c719ff02476
+      internalID: -725959624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 390
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eb8bd8ff79f174880779352bffd087
+      internalID: 885005037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 403
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6e2a2cdd0e4cc4e83f9fed8ae20de4
+      internalID: -1037013014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 338
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb36bb63c57036b499b6ce215f8ab2d7
+      internalID: 1229951066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 371
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99747b29681826a4f819d4a93467524e
+      internalID: 392923019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 331
+        width: 20
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d181ee5281ba9468a28e58e2473f26
+      internalID: -371931959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 276
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd5e24d5138fa046bdc02cd10ce182a
+      internalID: 1988160558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 282
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1a84b21aa22c84eb990740c03ecb49
+      internalID: 48231874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 360
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e108e9ff298bd45b8b8b2d0596294c
+      internalID: -1080257654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 300
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe974c57aacdaf46beed0e4f8a443dd
+      internalID: -608275378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 294
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282b65a1dda15684586b57bf37f3b949
+      internalID: 941439349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 330
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa81cf624cb22040bd4801fdd7e5ac1
+      internalID: 1494477093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 330
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56629d6902c641c48bd240a7e72c493c
+      internalID: -272370225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_160
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 330
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b13f45df2eeeef46a33dece71c6b0ad
+      internalID: 1302865309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_161
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 282
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef867b82dcdd3c64fa43ff4659579823
+      internalID: -1633904747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_162
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 270
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92133d5332efe941aefe245bb6dee61
+      internalID: 1788585707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_163
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 284
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8de877cbe26184fb30c42ee1751477
+      internalID: 101977035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_164
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 300
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a157f795611963f43a520ee812bf55f6
+      internalID: -1081062838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_165
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 228
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049926d7c0203bd499a5de78ace014a9
+      internalID: -127542581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_166
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 300
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ab211ec1a419d49b389b3eea9f7191
+      internalID: -573307860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_167
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 288
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c5fb363c5531446be7471ada3c1fff
+      internalID: -1697013695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_168
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 294
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5d57c70be240945b71398c85a0d4d6
+      internalID: 1177510570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_169
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 222
+        width: 108
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d492d301033c045bdafef299c4d097
+      internalID: -1966111109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_170
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 288
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6e627ccc6365446871769da780ca9d
+      internalID: -1103807921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_171
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 276
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e438a59f97aa842b990ad2cee6aa98
+      internalID: -1707053382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_172
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 179
+        width: 98
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb64efc0bb75ab5488bf4e5a0f83b43b
+      internalID: 2055417872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_173
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 254
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99d04d2bff60684aa48b5dce12e6cc2
+      internalID: -1742297427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_174
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 258
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b1d3932f54a56428a6eb3b022a2d80
+      internalID: -238697385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_175
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 270
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da721abaf423cd40b8ff7195a5c93f8
+      internalID: -1974740438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_176
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 264
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4eacdaeec3eec4d8299c4142cbfb40
+      internalID: -1936646075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_177
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 192
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e573e769fec77459e5c3549e7b60df
+      internalID: -902937070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_178
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 258
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88aa194219d2b548bdc8eb1f1d904d3
+      internalID: -1187617282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_179
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 144
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2124928383e3da24dacdd9bfd97eee25
+      internalID: -1869916858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_180
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 252
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000e02604c1f3c644b4f0e3efe55b35c
+      internalID: -1641435473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_181
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 246
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5661ce961eba30d47ab44721f9aa5305
+      internalID: 229007268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_182
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 246
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5273ac191311fc4a9796f12ae6b488c
+      internalID: -318776197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_183
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 239
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2908c007d10924aa84054dd3501062
+      internalID: 838393948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_184
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 234
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c40a660dba7f5b43a944892cc54f9cc
+      internalID: -853266001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_185
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 192
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbd55256433f7f4ebdd8ba86b5be9b1
+      internalID: -850588358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_186
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 228
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d9b85ee0788974da595e6576e13c89
+      internalID: 1109357797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_187
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 204
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40499fe40e045c64681d8b8b0ca81799
+      internalID: -1363210342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubble_pop_under_water_spritesheet_188
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 150
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97276d03aeaed54f837887ae01704a8
+      internalID: 286726552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bubble_pop_under_water_spritesheet_0: -2017640839
+      bubble_pop_under_water_spritesheet_1: -64789621
+      bubble_pop_under_water_spritesheet_10: 1722555979
+      bubble_pop_under_water_spritesheet_100: 2122911512
+      bubble_pop_under_water_spritesheet_101: 1029097912
+      bubble_pop_under_water_spritesheet_102: 1121197358
+      bubble_pop_under_water_spritesheet_103: -2144579450
+      bubble_pop_under_water_spritesheet_104: -71801516
+      bubble_pop_under_water_spritesheet_105: 2022451308
+      bubble_pop_under_water_spritesheet_106: 2046684556
+      bubble_pop_under_water_spritesheet_107: -102975310
+      bubble_pop_under_water_spritesheet_108: -426217155
+      bubble_pop_under_water_spritesheet_109: -195913023
+      bubble_pop_under_water_spritesheet_11: 1095581269
+      bubble_pop_under_water_spritesheet_110: 2066483902
+      bubble_pop_under_water_spritesheet_111: 1212980816
+      bubble_pop_under_water_spritesheet_112: 1515340268
+      bubble_pop_under_water_spritesheet_113: 834943798
+      bubble_pop_under_water_spritesheet_114: -1334674937
+      bubble_pop_under_water_spritesheet_115: 31483565
+      bubble_pop_under_water_spritesheet_116: 1181870853
+      bubble_pop_under_water_spritesheet_117: 1905515677
+      bubble_pop_under_water_spritesheet_118: -101343281
+      bubble_pop_under_water_spritesheet_119: 951251655
+      bubble_pop_under_water_spritesheet_12: 2046244709
+      bubble_pop_under_water_spritesheet_120: -656205380
+      bubble_pop_under_water_spritesheet_121: 960972151
+      bubble_pop_under_water_spritesheet_122: -510855918
+      bubble_pop_under_water_spritesheet_123: -1671590027
+      bubble_pop_under_water_spritesheet_124: -447722311
+      bubble_pop_under_water_spritesheet_125: 708628217
+      bubble_pop_under_water_spritesheet_126: 1184322668
+      bubble_pop_under_water_spritesheet_127: 251909350
+      bubble_pop_under_water_spritesheet_128: -1881556199
+      bubble_pop_under_water_spritesheet_129: 1726211202
+      bubble_pop_under_water_spritesheet_13: -159307574
+      bubble_pop_under_water_spritesheet_130: 9638918
+      bubble_pop_under_water_spritesheet_131: -277005946
+      bubble_pop_under_water_spritesheet_132: 36868070
+      bubble_pop_under_water_spritesheet_133: -760192923
+      bubble_pop_under_water_spritesheet_134: 1736891812
+      bubble_pop_under_water_spritesheet_135: 595250903
+      bubble_pop_under_water_spritesheet_136: -751493614
+      bubble_pop_under_water_spritesheet_137: 2024044633
+      bubble_pop_under_water_spritesheet_138: -994849581
+      bubble_pop_under_water_spritesheet_139: 710828971
+      bubble_pop_under_water_spritesheet_14: 681879340
+      bubble_pop_under_water_spritesheet_140: -838323917
+      bubble_pop_under_water_spritesheet_141: -457408935
+      bubble_pop_under_water_spritesheet_142: -404494082
+      bubble_pop_under_water_spritesheet_143: -694394629
+      bubble_pop_under_water_spritesheet_144: -947825503
+      bubble_pop_under_water_spritesheet_145: 1734391169
+      bubble_pop_under_water_spritesheet_146: -1863010366
+      bubble_pop_under_water_spritesheet_147: -725959624
+      bubble_pop_under_water_spritesheet_148: 885005037
+      bubble_pop_under_water_spritesheet_149: -1037013014
+      bubble_pop_under_water_spritesheet_15: -1223663087
+      bubble_pop_under_water_spritesheet_150: 1229951066
+      bubble_pop_under_water_spritesheet_151: 392923019
+      bubble_pop_under_water_spritesheet_152: -371931959
+      bubble_pop_under_water_spritesheet_153: 1988160558
+      bubble_pop_under_water_spritesheet_154: 48231874
+      bubble_pop_under_water_spritesheet_155: -1080257654
+      bubble_pop_under_water_spritesheet_156: -608275378
+      bubble_pop_under_water_spritesheet_157: 941439349
+      bubble_pop_under_water_spritesheet_158: 1494477093
+      bubble_pop_under_water_spritesheet_159: -272370225
+      bubble_pop_under_water_spritesheet_16: 655106489
+      bubble_pop_under_water_spritesheet_160: 1302865309
+      bubble_pop_under_water_spritesheet_161: -1633904747
+      bubble_pop_under_water_spritesheet_162: 1788585707
+      bubble_pop_under_water_spritesheet_163: 101977035
+      bubble_pop_under_water_spritesheet_164: -1081062838
+      bubble_pop_under_water_spritesheet_165: -127542581
+      bubble_pop_under_water_spritesheet_166: -573307860
+      bubble_pop_under_water_spritesheet_167: -1697013695
+      bubble_pop_under_water_spritesheet_168: 1177510570
+      bubble_pop_under_water_spritesheet_169: -1966111109
+      bubble_pop_under_water_spritesheet_17: -1283073182
+      bubble_pop_under_water_spritesheet_170: -1103807921
+      bubble_pop_under_water_spritesheet_171: -1707053382
+      bubble_pop_under_water_spritesheet_172: 2055417872
+      bubble_pop_under_water_spritesheet_173: -1742297427
+      bubble_pop_under_water_spritesheet_174: -238697385
+      bubble_pop_under_water_spritesheet_175: -1974740438
+      bubble_pop_under_water_spritesheet_176: -1936646075
+      bubble_pop_under_water_spritesheet_177: -902937070
+      bubble_pop_under_water_spritesheet_178: -1187617282
+      bubble_pop_under_water_spritesheet_179: -1869916858
+      bubble_pop_under_water_spritesheet_18: 32752075
+      bubble_pop_under_water_spritesheet_180: -1641435473
+      bubble_pop_under_water_spritesheet_181: 229007268
+      bubble_pop_under_water_spritesheet_182: -318776197
+      bubble_pop_under_water_spritesheet_183: 838393948
+      bubble_pop_under_water_spritesheet_184: -853266001
+      bubble_pop_under_water_spritesheet_185: -850588358
+      bubble_pop_under_water_spritesheet_186: 1109357797
+      bubble_pop_under_water_spritesheet_187: -1363210342
+      bubble_pop_under_water_spritesheet_188: 286726552
+      bubble_pop_under_water_spritesheet_19: -1878456020
+      bubble_pop_under_water_spritesheet_2: -133507853
+      bubble_pop_under_water_spritesheet_20: 380532710
+      bubble_pop_under_water_spritesheet_21: -1253586227
+      bubble_pop_under_water_spritesheet_22: -1190319156
+      bubble_pop_under_water_spritesheet_23: -1243554122
+      bubble_pop_under_water_spritesheet_24: 1509191924
+      bubble_pop_under_water_spritesheet_25: 1991506924
+      bubble_pop_under_water_spritesheet_26: 1929110800
+      bubble_pop_under_water_spritesheet_27: 753590908
+      bubble_pop_under_water_spritesheet_28: -259715199
+      bubble_pop_under_water_spritesheet_29: -1201302994
+      bubble_pop_under_water_spritesheet_3: -2110094239
+      bubble_pop_under_water_spritesheet_30: -1737063856
+      bubble_pop_under_water_spritesheet_31: 156526761
+      bubble_pop_under_water_spritesheet_32: -422696123
+      bubble_pop_under_water_spritesheet_33: -281255005
+      bubble_pop_under_water_spritesheet_34: -2078479411
+      bubble_pop_under_water_spritesheet_35: 364457242
+      bubble_pop_under_water_spritesheet_36: -68863907
+      bubble_pop_under_water_spritesheet_37: 1448749352
+      bubble_pop_under_water_spritesheet_38: 931035814
+      bubble_pop_under_water_spritesheet_39: -1544532024
+      bubble_pop_under_water_spritesheet_4: 325807359
+      bubble_pop_under_water_spritesheet_40: -407242915
+      bubble_pop_under_water_spritesheet_41: -319885347
+      bubble_pop_under_water_spritesheet_42: 1939018000
+      bubble_pop_under_water_spritesheet_43: 691358954
+      bubble_pop_under_water_spritesheet_44: -2060552601
+      bubble_pop_under_water_spritesheet_45: 422914044
+      bubble_pop_under_water_spritesheet_46: -1179932121
+      bubble_pop_under_water_spritesheet_47: -639669831
+      bubble_pop_under_water_spritesheet_48: -2093759262
+      bubble_pop_under_water_spritesheet_49: -1508242511
+      bubble_pop_under_water_spritesheet_5: 2034223066
+      bubble_pop_under_water_spritesheet_50: 2011785660
+      bubble_pop_under_water_spritesheet_51: -1630857978
+      bubble_pop_under_water_spritesheet_52: 1523929303
+      bubble_pop_under_water_spritesheet_53: -1634313443
+      bubble_pop_under_water_spritesheet_54: 768129234
+      bubble_pop_under_water_spritesheet_55: -854398046
+      bubble_pop_under_water_spritesheet_56: -1331421714
+      bubble_pop_under_water_spritesheet_57: -891319065
+      bubble_pop_under_water_spritesheet_58: -501151680
+      bubble_pop_under_water_spritesheet_59: -1027317578
+      bubble_pop_under_water_spritesheet_6: 1238099574
+      bubble_pop_under_water_spritesheet_60: 1372434083
+      bubble_pop_under_water_spritesheet_61: -199125077
+      bubble_pop_under_water_spritesheet_62: -440304640
+      bubble_pop_under_water_spritesheet_63: -530544474
+      bubble_pop_under_water_spritesheet_64: -325611407
+      bubble_pop_under_water_spritesheet_65: 660702254
+      bubble_pop_under_water_spritesheet_66: 940436319
+      bubble_pop_under_water_spritesheet_67: -972133226
+      bubble_pop_under_water_spritesheet_68: -329023998
+      bubble_pop_under_water_spritesheet_69: -735237591
+      bubble_pop_under_water_spritesheet_7: 1683384423
+      bubble_pop_under_water_spritesheet_70: 262780365
+      bubble_pop_under_water_spritesheet_71: 178481813
+      bubble_pop_under_water_spritesheet_72: -1539353207
+      bubble_pop_under_water_spritesheet_73: 1391397580
+      bubble_pop_under_water_spritesheet_74: -651866012
+      bubble_pop_under_water_spritesheet_75: 591223524
+      bubble_pop_under_water_spritesheet_76: 652012536
+      bubble_pop_under_water_spritesheet_77: -1276817045
+      bubble_pop_under_water_spritesheet_78: 698299559
+      bubble_pop_under_water_spritesheet_79: 1208807046
+      bubble_pop_under_water_spritesheet_8: -1073837770
+      bubble_pop_under_water_spritesheet_80: -323483187
+      bubble_pop_under_water_spritesheet_81: -1854319832
+      bubble_pop_under_water_spritesheet_82: 402098353
+      bubble_pop_under_water_spritesheet_83: -1396506593
+      bubble_pop_under_water_spritesheet_84: -1607681283
+      bubble_pop_under_water_spritesheet_85: -598848613
+      bubble_pop_under_water_spritesheet_86: -1195475144
+      bubble_pop_under_water_spritesheet_87: -636211253
+      bubble_pop_under_water_spritesheet_88: -668159884
+      bubble_pop_under_water_spritesheet_89: -1933127204
+      bubble_pop_under_water_spritesheet_9: -792063115
+      bubble_pop_under_water_spritesheet_90: 1803966856
+      bubble_pop_under_water_spritesheet_91: 77459156
+      bubble_pop_under_water_spritesheet_92: 827233123
+      bubble_pop_under_water_spritesheet_93: 850415680
+      bubble_pop_under_water_spritesheet_94: 493937361
+      bubble_pop_under_water_spritesheet_95: 1658464203
+      bubble_pop_under_water_spritesheet_96: 260187285
+      bubble_pop_under_water_spritesheet_97: -748763023
+      bubble_pop_under_water_spritesheet_98: -1040907741
+      bubble_pop_under_water_spritesheet_99: -1975538307
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
